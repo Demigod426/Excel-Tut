@@ -125,18 +125,6 @@ Excel-for-Data-Analytics/
 **Instructor:** Luke Barousse  
 **Platform:** YouTube
 
-## 📈 Progress Tracking
-
-- [ ] Excel Fundamentals
-- [ ] Intermediate Excel
-- [ ] Data Analysis with PivotTables
-- [ ] Power Query
-- [ ] M Language
-- [ ] Power Pivot
-- [ ] Data Modeling
-- [ ] DAX
-- [ ] Practical Excel Projects
-
 ## 🚀 Goal
 
 My goal is to develop practical Excel skills that can be applied to real-world data analysis problems and build a strong foundation for a career as a **Data Analyst / Business Analyst**.
